@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @giraaffe99
+- 👋 Hi, I’m Dedew
 - 👀 I’m interested in web3
-- 🌱 I’m currently learning software developer
-- 💞️ I’m looking to collaborate on nothing
+- 🌱 I’m currently learning software developer, data science and web3
+- 💞️ I’m looking to collaborate on something cool
 - 📫 How to reach me 
 - 😄 Pronouns: her
 - ⚡ Fun fact: i like cat but not their poop
